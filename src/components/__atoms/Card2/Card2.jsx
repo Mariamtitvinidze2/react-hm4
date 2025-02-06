@@ -1,11 +1,11 @@
 import React from "react";
 
-const Kath1 = (props) => {
+const Card2 = (props) => {
   return (
     <div className="Line3">
-      <p>{props.p1} </p>
+      <p>{props.p2} </p>
     </div>
   );
 };
 
-export default Kath1;
+export default Card2;

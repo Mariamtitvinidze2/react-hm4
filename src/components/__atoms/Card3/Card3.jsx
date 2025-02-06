@@ -1,6 +1,6 @@
 import React from "react";
 
-const Kath3 = (props) => {
+const Card3 = (props) => {
   return (
     <div className="Line3">
       <p>{props.p3}</p>
@@ -8,4 +8,4 @@ const Kath3 = (props) => {
   );
 };
 
-export default Kath3;
+export default Card3;
