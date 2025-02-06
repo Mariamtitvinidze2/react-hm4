@@ -4,8 +4,8 @@ import Card from "../../__molecules/Card/Card";
 import Wheat from "../../../assets/icons/wheat.png";
 import Leaf from "../../../assets/icons/leaf.png";
 import Fire from "../../../assets/icons/fire.png";
-import Pizza from "../../../assets/images/pizza.png";
-import Strawberry from "../../../assets/images/strawberry.png";
+import Pizza from "../../../assets/images/Pizza.png";
+import Strawberry from "../../../assets/images/Strawberry.png";
 import Tortellini from "../../../assets/images/Tortellini.png";
 
 const MainM = (props) => {
