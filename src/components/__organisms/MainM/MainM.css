@@ -1,0 +1,9 @@
+.MainCard {
+  width: auto;
+  height: 528px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  gap: 30px;
+}

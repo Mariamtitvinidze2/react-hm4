@@ -1,0 +1,17 @@
+.wheat {
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  background-color: rgba(255, 194, 43, 1);
+  border: none;
+  border-radius: 50px;
+}
+
+.wheat > img {
+  width: 14px;
+  height: 14px;
+}

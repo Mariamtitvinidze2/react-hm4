@@ -1,0 +1,21 @@
+button {
+  width: 114px;
+  height: 44px;
+  flex-shrink: 0;
+  border-radius: 4px;
+  background: var(--Cards-4-action-color, #2ecc71);
+  color: var(--White, #fff);
+  text-align: center;
+  font-family: "Open Sans";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 25px;
+  letter-spacing: 2.52px;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #4df593;
+}

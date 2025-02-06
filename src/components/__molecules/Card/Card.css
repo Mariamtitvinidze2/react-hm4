@@ -1,0 +1,11 @@
+.Card {
+  width: 360px;
+  height: 528px;
+  flex-shrink: 0;
+  border-radius: 16px;
+  background: var(--White, #fff);
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-direction: column;
+}

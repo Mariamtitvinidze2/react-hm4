@@ -1,0 +1,9 @@
+.Line1Text > h1 {
+  color: var(--Heading-text, #081f32);
+  font-family: "DM Serif Display";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  letter-spacing: 0.24px;
+}

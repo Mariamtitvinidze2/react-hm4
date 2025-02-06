@@ -1,0 +1,9 @@
+.MiddleBox {
+  width: 100%;
+  padding: 0px 25px 0px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-direction: column;
+  gap: 20px;
+}

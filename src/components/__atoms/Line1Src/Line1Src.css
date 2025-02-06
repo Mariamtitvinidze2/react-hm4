@@ -1,0 +1,9 @@
+.Line1Src {
+  height: 24px;
+  padding: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  gap: 5px;
+}

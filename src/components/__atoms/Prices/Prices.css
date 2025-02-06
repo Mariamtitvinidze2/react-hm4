@@ -1,0 +1,27 @@
+.Prices {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.Prices > h1 {
+  color: var(--Heading-text, #081f32);
+  font-family: "DM Serif Display";
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+}
+
+.Prices > h2 {
+  color: var(--Cards-3-main-button, #f8593b);
+  font-family: "DM Serif Display";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  text-decoration-line: strikethrough;
+  margin-top: 2px;
+}

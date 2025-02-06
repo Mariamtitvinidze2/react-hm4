@@ -1,0 +1,17 @@
+.fire {
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  background-color: rgba(248, 89, 59, 1);
+  border: none;
+  border-radius: 50px;
+}
+
+.fire > img {
+  width: 14px;
+  height: 14px;
+}
